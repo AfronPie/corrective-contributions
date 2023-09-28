@@ -1,7 +1,7 @@
 # Introduction
 This code will do the math for corrective contributions. A typical situation may sound like the following:
 A 401(k) participant named George elects to have $300 withheld from his paycheck and placed in his 401(k) every two weeks. However, his employer's payroll system had a
-error - which caused the $300 to be withdrawn from his 07/14/23 pay but not deposited into his 401(k) account. It is now 08/20/23, and George's employer has discovered this error. George's employer immediately deposits $300 into George's 401(k) account to account for the mistake. However, the George's overall portfolio has gone up 5.8% in the time period between 07/14/23 and 08/20/23. How can we accurately account for this increase in value? 
+error - which caused the $300 to be withdrawn from his 07/14/23 pay but not deposited into his 401(k) account. It is now 08/20/23, and George's employer has discovered this error. George's employer immediately deposits $300 into George's 401(k) account to account for the mistake. However, George's portfolio has gone up about 5.8% in the time period between 07/14/23 and 08/20/23. We need to calculate the additional amount that George's employer should deposit to make him whole.
 
 # Installation
 Aside from the native python libraries - you will need [pandas](https://pypi.org/project/pandas/) and [docx](https://pypi.org/project/python-docx/).
