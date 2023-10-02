@@ -10,7 +10,7 @@ Aside from the native python libraries - you will need [pandas](https://pypi.org
 The process to use will involve the following:
 1. Make a copy of the Corrective Contributions .ipynb template, along with the Funcs.py python file and place them in the same folder together. 
 2. Create an excel sheet which contains your information, using the Data Import Template.xlsx file as a guide on how to format your information. Once you have created the sheet (note that the column names and information should exactly match the Data Import Template.xlsx), convert the excel file to .csv - which will allow you to easily read it into the .ipynb file.
-3. Run the cells in the .ipynb file in a jupyter notebook (Google Collab works too). Overall, the input is 1 csv file and the output is 1-2 excel files and 1-2 word document files depending on the circumstances of the case.
+3. Run the cells in the .ipynb file in a jupyter notebook (Google Collab works too). Usually, the input is 1 csv file and the output is 1-2 excel files and 1-2 word document files - though this depends on the circumstances of the case.
 
 # Specific Abbreviations Used
 * EE = Employee
