@@ -11,4 +11,5 @@ This is an example of what the code can accomplish at it's best. In this example
 * Python code is also dynamic in that it can generate the same 8 excel files, and 9 word docuemnts described above (with the analysis/conclusions already done) if necessary
 
 Also, as a general note:
-The python code from this repository is best utilized when dealing with a complicated scenairo of corrective contributions (i.e. involving hundreds/thousands of rows of data). However, in a simple case (with just a couple of rows of data), it may be easier to use the process that has been in place using solely excel. 
+The python code from this repository is best utilized when dealing with a complicated scenairo of corrective contributions (i.e. involving hundreds/thousands of rows of data). 
+However, in a simple case (with just a couple of rows of data), it will likely be more efficient to use the process that has been in place using solely excel. 
